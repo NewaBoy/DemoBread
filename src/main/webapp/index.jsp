@@ -13,8 +13,7 @@
 	<h2>Seasonal Breads</h2>
 
 	<p>list</p>
-
-	<h2>Hello World!</h2>
+	<span>Notes: stuff</span>
 
 	<span>ingredients list</span>
 	<p>List</p>
